@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  php:
+    build: ./library/breeze-containers/php
+    volumes:
+      - .:/var/www/breeze
+    ports:
+      - 9000
