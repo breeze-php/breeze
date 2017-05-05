@@ -1,0 +1,18 @@
+[submodule "library/breeze-identity"]
+	path = library/breeze-identity
+	url = https://github.com/breeze-php/breeze-identity.git
+[submodule "library/breeze-graphql"]
+	path = library/breeze-graphql
+	url = https://github.com/breeze-php/breeze-graphql.git
+[submodule "library/breeze-doctrine"]
+	path = library/breeze-doctrine
+	url = https://github.com/breeze-php/breeze-doctrine.git
+[submodule "library/breeze-core"]
+	path = library/breeze-core
+	url = https://github.com/breeze-php/breeze-core.git
+[submodule "library/breeze-auth"]
+	path = library/breeze-auth
+	url = https://github.com/breeze-php/breeze-auth.git
+[submodule "library/breeze-acl"]
+	path = library/breeze-acl
+	url = https://github.com/breeze-php/breeze-acl.git
