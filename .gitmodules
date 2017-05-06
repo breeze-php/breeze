@@ -16,3 +16,6 @@
 [submodule "library/breeze-acl"]
 	path = library/breeze-acl
 	url = https://github.com/breeze-php/breeze-acl.git
+[submodule "library/breeze-containers"]
+	path = library/breeze-containers
+	url = https://github.com/breeze-php/breeze-containers.git
